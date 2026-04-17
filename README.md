@@ -1,6 +1,12 @@
 ![](https://hit.yhype.me/github/profile?user_id=13810199)
 ### Hi there 👋
 
+[![Hyperskill](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMulugruntz%2FMulugruntz%2Fmain%2F.github%2Fbadges%2Fhyperskill.json&style=for-the-badge)](https://hyperskill.org/profile/629688907)
+
+<!-- Referral link: https://hyperskill.org/join/82e468c33 -->
+
+You can [join me on Hyperskill](https://hyperskill.org/join/82e468c33).
+
 <!--
 **Mulugruntz/Mulugruntz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
